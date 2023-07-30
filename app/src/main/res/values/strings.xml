@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScanX</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="no_bar_code_detected">No Bar Code Detected</string>
+    <string name="search_item">Search Item</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_off">Flash Off</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="saved">Saved</string>
+    <string name="generate">Generate</string>
+    <string name="scan">Scan</string>
+    <string name="history">History</string>
+</resources>
